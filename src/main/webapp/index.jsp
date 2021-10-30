@@ -5,7 +5,7 @@
     <title>Prima jsp di Fabrizio</title>
 </head>
 <body>
-<h1><%= "Ciao Ci sono dinuovo" %>
+<h1><%= "Hello Word" %>
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
